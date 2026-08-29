@@ -1,0 +1,10 @@
+{
+  "description": "Centralizes authoritative tax research, analysis, and workflows for complex U.S. tax matters, empowering professionals with precise, organized insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
